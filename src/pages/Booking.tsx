@@ -27,9 +27,9 @@ const services = [
   { value: 'nova-premium-interieur', label: 'Nova Premium Intérieur - 49,99€' },
   { value: 'nova-premium-exterieur', label: 'Nova Premium Extérieur - 49,99€' },
   { value: 'nova-premium-complet', label: 'Nova Premium Complet - 79,99€' },
-  { value: 'abonnement-care', label: 'Abonnement Mensuel Care - 39,99€/mois' },
-  { value: 'abonnement-premium', label: 'Abonnement Nova Premium - 69,99€/mois' },
-  { value: 'abonnement-showroom', label: 'Abonnement Nova Showroom - 149,99€/mois' },
+  { value: 'abonnement-care', label: 'Abonnement Nova Care - 121,47€/trimestre' },
+  { value: 'abonnement-premium', label: 'Abonnement Nova Premium - 215,9€/trimestre' },
+  { value: 'abonnement-showroom', label: 'Abonnement Nova Showroom - 350,97€/trimestre' },
 ];
 
 const vehicleTypes = [
